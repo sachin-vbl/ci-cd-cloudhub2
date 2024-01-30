@@ -3,7 +3,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<!- groupId must be the business group Id or OrgId-->
+	<!-- groupId must be the business group Id or OrgId-->
 	<groupId>c350e4c1-71c9-4ae8-b50f-cfb2fc0e0fd6</groupId>
 	<artifactId>greeetings-parametrized</artifactId>
 	<version>1.0.0</version>
